@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\frontend\web\src\hooks\utils-account-fixture\complex-fragments\factory-fixture.txt
+// Generated at: 2025-10-11T03:24:29.763Z
